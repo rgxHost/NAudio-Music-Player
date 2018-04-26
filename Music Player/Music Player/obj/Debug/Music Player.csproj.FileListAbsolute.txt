@@ -1,0 +1,13 @@
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\bin\Debug\NAudio.dll
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\bin\Debug\NAudio.xml
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music_Player.F_Main.resources
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music_Player.F_Playlist.resources
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\rgxOhm\Documents\Visual Studio 2017\Projects 2018\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
